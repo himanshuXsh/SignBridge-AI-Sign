@@ -1,0 +1,8 @@
+{
+  "name": "SignBridge — AI Sign",
+  "description": "An AI-powered accessible bridge between sign language, text, and voice using Gemini 3 Pro, Live API, and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
